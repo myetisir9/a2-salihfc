@@ -1,5 +1,5 @@
 
-<h1> hello {{name}} </h1>
+<h1> Comment Section </h1>
 
 % for comment in comments:
 	
